@@ -4,7 +4,7 @@
 
 ## Low-Level, Open Source Graphics Renderer.
 
-The **Aurora Render** is a **Graphics Renderer and Engine** focused on performance and control, created specifically for the **Modding** and 3D Asset Development community. Our mission is to offer a fast and precise platform to inspect, validate, and prepare your 3D models before injecting them into games like **MTA/FiveM/DayZ/ARK** and other customizable simulators.
+The **Aurora Render** is a **Graphics Renderer** focused on performance and control, created specifically for the **Modding** and 3D Asset Development community. 
 
 > [!WARNING]
 > The current version is **pre-alpha**, meaning the renderer is currently **limited** to importing models in the **.OBJ** format.
