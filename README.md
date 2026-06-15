@@ -8,6 +8,7 @@ The **Aurora Render** is a **Graphics Renderer** focused on performance and cont
 
 > [!WARNING]
 > The current version is **pre-alpha**, meaning the renderer is currently **limited** to importing models in the **.OBJ** format.
+> Download glad.c from the (official website)[https://glad.dav1d.de/generated/tmppvfjrm_2glad/] and move it to the main directory.
 
 ---
 
